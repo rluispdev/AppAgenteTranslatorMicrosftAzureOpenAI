@@ -22,8 +22,8 @@ Este projeto foi desenvolvido como parte da **formação AI-102** pela DIO (Digi
 
 Todos os passos para configurar os serviços Azure Translator e Azure OpenAI estão descritos no PDF anexo:
 
-📙 **[Tutorial Azure - rluispdev_PT.pdf](https://github.com/rluispdev/AppAgenteTranslatorMicrosftAzureOpenAI/blob/main/Tradutor%20Tutorial%20-%20rluispdev%20(Versão%20em%20Português).pdf)**
-📘 **[Tutorial Azure - rluispdev_EN.pdf](https://github.com/rluispdev/AppAgenteTranslatorMicrosftAzureOpenAI/blob/main/Translator%20Tutorial%20-%20rluispdev%20(English%20Version).pdf)**
+- 📙 **[Tutorial Azure - rluispdev_PT.pdf](https://github.com/rluispdev/AppAgenteTranslatorMicrosftAzureOpenAI/blob/main/Tradutor%20Tutorial%20-%20rluispdev%20(Versão%20em%20Português).pdf)**
+- 📘 **[Tutorial Azure - rluispdev_EN.pdf](https://github.com/rluispdev/AppAgenteTranslatorMicrosftAzureOpenAI/blob/main/Translator%20Tutorial%20-%20rluispdev%20(English%20Version).pdf)**
 
 Conteúdo:
 - Criação de recursos no portal do Azure
