@@ -50,7 +50,7 @@ pip install requests beautifulsoup4
 3.	Execute o notebook:
 
 ```
-jupyter notebook translator_tutorial.ipynb
+jupyter notebook AppAgenteTranslatorMicrosftAzureOpenAI.ipynb
 
 ```
 
